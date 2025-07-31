@@ -1,3 +1,8 @@
+##Development of a Novel Glucose Online Analysis Approach in Fermentation: Combining PLS and SVR for Raman Spectroscopy with Extensive Validation
+
+###Abstract
+Fermentation processes are critical in industries such as pharmaceuticals or food production, where glucose plays a key role as a primary carbon source for microorganisms. Accurate and real-time glucose monitoring is essential for optimizing fermentation conditions, but traditional methods often provide delayed results and lack the robustness required for industrial applications. To overcome these challenges, the present work introduces a hybrid model combining Partial Least Squares (PLS) and Support Vector Machine (SVM) regressions  (PLS-SVR) for quasi-real-time glucose monitoring using Raman spectroscopy. In particular, a response surface approach was implemented to optimise the spectroscopic parameters, and oxygen uptake rate data were incorporated to extend and strengthen the training set. Finally, an extensive long-term validation was performed to assess the robustness of the model under varying fermentation conditions. The results demonstrate that the PLS-SVR model significantly outperforms traditional PLS models, with a Root Mean Square Error of Prediction (RMSEP) of 1.7 g/L over the 6-month validation , highlighting its accuracy and reliability. This work provides a practical and reliable solution for glucose monitoring in fermentation, paving the way for a new benchmark in bioprocesses monitoring. 
+
+###Supplementary Information
 This GitHub repository contains the Supplementary Information to the article "Development of a Novel Glucose Online Analysis Approach in Fermentation: Combining PLS and SVR for Raman Spectroscopy with Extensive Validation".  
-  
 The code used for the data treatment and visualization reported in the article is presented as a Jupyter Notebook.
